@@ -11,3 +11,4 @@ library(janitor)
 
 dailyActivity <- read_csv("FitBit Fitness Tracker Data Set/Fitabase Data 4.12.16-5.12.16/dailyActivity_merged.csv")
 heartrate_seconds <- read_csv("FitBit Fitness Tracker Data Set/Fitabase Data 4.12.16-5.12.16/heartrate_seconds_merged.csv")
+hourlyCalories <- read_csv("FitBit Fitness Tracker Data Set/Fitabase Data 4.12.16-5.12.16/hourlyCalories_merged.csv")
